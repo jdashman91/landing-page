@@ -169,3 +169,14 @@ button {
     border-width: 2px;
     border-style: solid;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #E5E7EB;
+    background-color: #1F2937;
+    height: 100px;
+    font-weight: 400;
+    font-size: 18px ;
+}
